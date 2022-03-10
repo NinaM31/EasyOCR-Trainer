@@ -1,7 +1,7 @@
 # EasyOCR-Trainer
 
-taken project from here: [EasyOCR](https://github.com/JaidedAI/EasyOCR), In this clone I modifed the `trainer.ipynb`, `train.py` and `Generate & Manipulatet data` folder. In `trainer.ipynb` added a hypertuning function, and visualization function. These models were trained on Arabic characters.  
-The `Generate & Manipulatet data` folder has functions for generating synthData, cleaning and viewing dataset stats.
+taken project from here: [EasyOCR](https://github.com/JaidedAI/EasyOCR), In this clone I modifed the `trainer.ipynb`, `train.py` and added `Generate & Manipulate data` folder. In `trainer.ipynb` added a hypertuning function, and visualization function. These models were trained on Arabic characters.  
+The `Generate & Manipulate data` folder has functions for generating synthData, cleaning and viewing dataset stats.
 
 ### Models 
 ![image](https://user-images.githubusercontent.com/57009004/132367407-1cd324a5-d115-4550-b90e-210ebf23c6a3.png)
